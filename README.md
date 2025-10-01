@@ -2,22 +2,21 @@
 
 _Formerly known as the Metadata Interest Group._
 
-Meetings are open to all and are regularly held on the __first Monday of the month, from 1-2 PM Eastern Time__ (North America). Meeting agendas can be found in the [Meetings](https://github.com/islandora-interest-groups/Islandora-Metadata-Committee/tree/main/Meetings) subdirectory of this repository. Updates (including changes to meeting times) can be found in Islandora's `#metadata` Slack channel or on the [Islandora mailing list](https://groups.google.com/g/islandora).
+Metadata Interest Meetings are open to all and are regularly held on the __first Monday of the month, from 1-2 PM Eastern Time__ (North America). Meeting agendas can be found in the [Meetings](https://github.com/islandora-interest-groups/Islandora-Metadata-Committee/tree/main/Meetings) subdirectory of this repository. Updates (including changes to meeting times) can be found in Islandora's `#metadata` Slack channel or on the [Islandora mailing list](https://groups.google.com/g/islandora).
+
+Meetings include a combination of Committee deliverables (as needed) and community of practice discussions. All are welcome!
 
 ## Membership
 
-Anyone in the Islandora Community is welcome to become a member of the Committee. Per the [under revision] Terms of Reference, membership will entail some responsibilities such as assisting with deliverables and attending meetings.
+Anyone in the Islandora Community is welcome to become an official member of the Committee. Per the [under revision] Terms of Reference, membership will entail some responsibilities such as assisting with deliverables and attending meetings.
 
 ### Chair / Representative to LG
 * Rosie Le Faive (University of Prince Edward Island)
 
-### Conveners
-
-* Dani Kroon (PALS)
-* Rosie Le Faive (University of Prince Edward Island)
-
 ### Members
 
+* Rosie Le Faive (University of Prince Edward Island) (Chair; Co-convener)
+* Dani Kroon (PALS) (Co-convener)
 * Tyrica Terry Kapral (University of Pittsburgh)
 
 ### Conveners Emeriti (MIG)
@@ -27,6 +26,7 @@ Anyone in the Islandora Community is welcome to become a member of the Committee
 * Charlie Tillay (Tulane University)
 * Kristina Spurgin (LYRASIS)
 * Mike Bolam (University of Pittsburgh)
+
 
 
 ## Key Documents
