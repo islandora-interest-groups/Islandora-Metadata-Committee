@@ -40,34 +40,38 @@ Anyone in the Islandora Community is welcome to become an official member of the
 
 ### [Shared Documents (Google Drive)](https://drive.google.com/drive/u/0/folders/1kTAHFcjNnipXHYQSkwgoQsgBPLYBm_1y)
 
-## Terms of reference [under revision]
+## Terms of reference [Adopted October 2025]
 
-* The name of the interest group is the Islandora Metadata Interest Group (IMIG)
+### Preface
 
-* The purpose of the IMIG is to investigate and provide metadata solutions that help improve metadata creation, maintenance and enhancement in Islandora.
+* As with all groups in the Islandora Community, members of this Committee and attendees of the Metadata Interest Meetings agree to abide by the Islandora Code of Conduct.
+* Further information about this group, including current membership, is available on the Metadata Committee Github repository (https://github.com/islandora-interest-groups/Islandora-Metadata-Committee).
+* Members should fill out the Islandora Onboarding Form to be added to the appropriate communication channels (such as Google Drive, Slack, Mailing List, and meeting invitations).
 
-* Specific goals, activities, and outcomes include:
+### Purpose and scope:
 
-  * Metadata best practices for Islandora
-  
-    * Metadata profiles for multiple metadata standards
-	* Documentation
-	
-  * Investigate metadata tools
-  
-    * Creating and editing metadata in Islandora
-	* Pre and post processing of metadata including harvests, transformations, and migrations
-	
-  * Investigate features that enhance metadata creation and maintenance
-  
-    * XML form enhancements
-	* Use and application of taxonomies
-	* Alternatives to XML forms
-	
-  * Investigate linked open data
-  
- * The interest group will meet once a month virtually (eg. via Google Hangouts). A call for agenda items will be posted to the Islandora Google Group at least 1 week prior to the meeting. The convener will appoint a note taker for the meeting and meeting notes will be made available at [IMIG](https://github.com/Islandora/Islandora-Metadata-Interest-Group).
- 
- * The convener(s) will report to the Islandora Roadmap Committee following the IMIG's meeting.
+* The purpose of the Metadata Committee is to investigate and provide metadata solutions that help improve metadata creation, maintenance and enhancement in Islandora, and to support the Islandora Leadership Group to make decisions on best practices as it relates to the development of the Islandora Framework.
+* Specific activities and outcomes include:
+    * Facilitate and encourage a community of practice for metadata within the larger Islandora community
+    * Support metadata best practices for Islandora, for example:
+    * Providing adoptable metadata profiles and mappings for multiple metadata standards
+    * Supporting the creation of metadata documentation (in coordination with the Documentation Committee, the Community Manager, and other groups as needed)
+    * Investigate metadata tools, including tools for creating and editing metadata in Islandora, and pre- and post-processing of metadata including harvests, transformations, and migrations
+    * Investigate features that enhance metadata creation and maintenance
+    * Provide input and guidance on development decisions, in consultation with the Documentation Committee, TAG, and the Roadmap Committee
+    * Investigate Linked Open Data
+
+### Membership
+
+* Anyone in the Islandora community may join the Committee.
+* A membership list will be maintained at the Metadata Committee's Github Repository.
+* Membership will entail responsibilities including assisting with deliverables and attending meetings.
+
+### Roles and Responsibilities
+
+* The Committee must identify one member to serve as a representative to the Leadership Group, who will attend those meetings on a regular basis (regularly once a month) and provide updates as to the activities of the Committee, for a period of at least one year starting in July.
+* The Committee may have as many (Co-)Convenors as they see fit.
+* A call for agenda items will be posted at least 1 week prior to the meeting. The conveners will appoint a note taker for the meeting, and meeting notes will be made available to the community via the Metadata Committee's Github Repository.
+* The Committee should meet regularly once a month or as needed.
 
 
