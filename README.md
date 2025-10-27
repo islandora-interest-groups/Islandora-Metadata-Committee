@@ -20,6 +20,8 @@ Anyone in the Islandora Community is welcome to become an official member of the
 * Rosie Le Faive (University of Prince Edward Island) (Chair; Co-convener)
 * Dani Kroon (PALS) (Co-convener)
 * Tyrica Terry Kapral (University of Pittsburgh)
+* Chris Day (UNLV)
+* Elisabeth Ball (FLVC)
 
 ### Conveners Emeriti (MIG)
 
