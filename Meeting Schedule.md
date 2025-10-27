@@ -1,3 +1,11 @@
+## 2025 Meetings
+
+|Date | Chair | Note-taker | Topic |
+|---|---|---|---|
+|November 3, 2025|Rosie|?|Typed Relation fields|
+|December 1, 2025|Rosie|Dani|Linked Data|
+
+
 ## 2023 Meetings
 
 |Date | Chair | Note-taker | Topic |
