@@ -22,6 +22,7 @@ Anyone in the Islandora Community is welcome to become an official member of the
 * Tyrica Terry Kapral (University of Pittsburgh)
 * Chris Day (UNLV)
 * Elisabeth Ball (FLVC)
+* Dara Virks (discoverygarden/Born Digital)
 
 ### Conveners Emeriti (MIG)
 
