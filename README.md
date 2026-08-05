@@ -15,12 +15,10 @@ Anyone in the Islandora Community is welcome to become an official member of the
 ### Chair / Representative to LG
 * Rosie Le Faive (University of Prince Edward Island)
 
-### Members
+### Official Membership Roster
 
 * Rosie Le Faive (University of Prince Edward Island) (Chair; Co-convener)
-* Dani Kroon (PALS) (Co-convener)
-* Tyrica Terry Kapral (University of Pittsburgh)
-* Chris Day (UNLV)
+* Michael Bolam (Pitt)
 * Elisabeth Ball (FLVC)
 * Dara Virks (discoverygarden/Born Digital)
 
